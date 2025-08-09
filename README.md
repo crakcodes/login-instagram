@@ -5,5 +5,3 @@
 "# cacksta" 
 "# login-instagram" 
 "# login-instagram" 
-"# login-instagram" 
-"# login-instagram" 
